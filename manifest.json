@@ -1,0 +1,15 @@
+{
+    "name":"Bizinc Website Inspired",
+    "short_name":"Bizinc",
+    "start_url": "/",
+    "display":"standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "icons" : [
+        {
+            "src":"../src/assets/icon/icon.jpg",
+            "type":"image/png",
+            "sizes": "37x27"
+    }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b8a088c4.css",
+    "main.js": "/static/js/main.eada8c10.js",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/registration.png": "/static/media/registration.bb9727e4ca3a89a029fa.png",
+    "static/media/bulb.webp": "/static/media/bulb.4629581a157cfb3739a8.webp",
+    "static/media/barb.webp": "/static/media/barb.d3acfc8e80d4c2bd6e1e.webp",
+    "static/media/repair.webp": "/static/media/repair.22fa23310f327acdc786.webp",
+    "static/media/banner.webp": "/static/media/banner.3078b52407485034d053.webp",
+    "static/media/skin.webp": "/static/media/skin.b79b7436847629d600e2.webp",
+    "static/media/google.256x256.webp": "/static/media/google.256x256.755850cd7dba4fa94c5c.webp",
+    "static/media/logo.webp": "/static/media/logo.6a38986d0de63f49a0e0.webp",
+    "static/media/profile.webp": "/static/media/profile.1421a1f16cb91dda42cf.webp",
+    "static/media/verify2.webp": "/static/media/verify2.ab0ec4398918ab37aa83.webp",
+    "static/media/verify1.webp": "/static/media/verify1.527caf2ad885fbb9f7e6.webp",
+    "static/media/ideas.webp": "/static/media/ideas.392f62540ffd65b90c62.webp",
+    "index.html": "/index.html",
+    "main.b8a088c4.css.map": "/static/css/main.b8a088c4.css.map",
+    "main.eada8c10.js.map": "/static/js/main.eada8c10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8a088c4.css",
+    "static/js/main.eada8c10.js"
+  ]
+}
